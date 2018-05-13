@@ -1,0 +1,19 @@
+.content {
+  margin: 0 auto;
+  padding: 60px 40px;
+  width: 600px;
+  height: 500px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 25px;
+  background: url("flower.jpeg");
+  background-size: cover;
+}
+
+.name {
+  padding: 40px 10px 0;
+}
+
+.input {
+  display: inline-block;
+}
